@@ -39,15 +39,11 @@ lib/
 
 ## 4. App Video
 
-<p align="center">
-  <video width="400" controls style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <source src="video/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[Watch Video](https://drive.google.com/file/d/1gThczp9fM627nGOIFX-EIO4J84utj0ni/view?usp=sharing)
+
 
 
 ## 5. App APK
 
-[Download APK](https://github.com/saad-lashari/evencir_task/apk/app-release.apk)
+[Download APK](https://drive.google.com/file/d/1krZD-MG36VpFMV0_PoK8smnbVm71JdLr/view?usp=sharing)
 
