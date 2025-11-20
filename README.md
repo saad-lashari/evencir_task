@@ -30,15 +30,22 @@ lib/
 
 ## 3. App Screenshots
 
-Add clear screenshots of your app showcasing the main features and UI.
-
-[View Screenshots](https://github.com/username/project-name/tree/main/screenshots)
+<p align="center">
+  <img src="screenshots/Screenshot_1763661111.png" alt="Template Screen" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="screenshots/Screenshot_1763661129.png" alt="Create Invoice 1" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="screenshots/Screenshot_1763661140.png" alt="Create Invoice 2" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="screenshots/Screenshot_1763661146.png" alt="Create Invoice 3" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+</p>
 
 ## 4. App Video
 
-Include a short video demonstration of your app (e.g., screen recording) showing the app’s flow and functionality.
+<p align="center">
+  <video width="400" controls style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <source src="videos/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-[Watch App Demo Video](https://drive.google.com/file/d/xxxx/view)
 
 ## 5. App APK
 
