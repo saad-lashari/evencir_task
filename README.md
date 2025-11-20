@@ -49,7 +49,5 @@ lib/
 
 ## 5. App APK
 
-Provide a downloadable APK file so the app can be easily tested on Android devices.
-
-[Download APK](https://github.com/username/project-name/releases/download/v1.0/app-release.apk)
+[Download APK](https://github.com/saad-lashari/evencir_task/apk/app-release.apk)
 
